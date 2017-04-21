@@ -1,0 +1,15 @@
+动态代理
+
+java.lang.reflect.InvocationHandler--动态代理接口    只有一个方法:
+
+ Object invoke(Object proxy, Method method, Object[] args) 
+          在代理实例上处理方法调用并返回结果。 
+          
+          
+          
+java.lang.reflect.Proxy      代理类
+
+
+
+
+当然,如果委托类  没有实现接口 , 也是可以的
