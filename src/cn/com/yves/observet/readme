@@ -1,0 +1,6 @@
+观察者模式
+
+
+应用:
+tomcat的启动模式是基于于观察者模式设计的;
+https://www.ibm.com/developerworks/cn/java/j-lo-servlet/
